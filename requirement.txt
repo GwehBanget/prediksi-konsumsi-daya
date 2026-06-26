@@ -1,0 +1,7 @@
+app.py
+
+random_forest.pkl
+
+requirements.txt
+
+powerconsumption.csv
